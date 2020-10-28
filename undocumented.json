@@ -1,0 +1,355 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/APIClient.swift",
+      "line": 3,
+      "symbol": "AuthAPIClientError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/APIClient.swift",
+      "line": 4,
+      "symbol": "AuthAPIClientError.invalidResponse",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/APIClient.swift",
+      "line": 5,
+      "symbol": "AuthAPIClientError.dataTaskError(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/APIClient.swift",
+      "line": 6,
+      "symbol": "AuthAPIClientError.decodeError(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/APIClient.swift",
+      "line": 7,
+      "symbol": "AuthAPIClientError.serverError(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/APIClient.swift",
+      "line": 8,
+      "symbol": "AuthAPIClientError.statusCode(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/APIClient.swift",
+      "line": 9,
+      "symbol": "AuthAPIClientError.oidcError(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/APIClient.swift",
+      "line": 18,
+      "symbol": "OIDCError",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/APIClient.swift",
+      "line": 23,
+      "symbol": "ServerError",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/AuthenticationSession.swift",
+      "line": 15,
+      "symbol": "AuthenticationSessionError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/AuthenticationSession.swift",
+      "line": 16,
+      "symbol": "AuthenticationSessionError.sessionError(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/AuthenticationSession.swift",
+      "line": 17,
+      "symbol": "AuthenticationSessionError.canceledLogin",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/AuthenticationSession.swift",
+      "line": 71,
+      "symbol": "AuthenticationSessionProvider.presentationAnchor(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 5,
+      "symbol": "AuthorizeCompletionHandler",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 6,
+      "symbol": "UserInfoCompletionHandler",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 7,
+      "symbol": "VoidCompletionHandler",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 38,
+      "symbol": "UserInfo",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 52,
+      "symbol": "AuthorizeResult",
+      "symbol_kind": "source.lang.swift.decl.struct",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 53,
+      "symbol": "AuthorizeResult.userInfo",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 54,
+      "symbol": "AuthorizeResult.state",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 57,
+      "symbol": "SessionState",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 58,
+      "symbol": "SessionState.loggedIn",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 59,
+      "symbol": "SessionState.noSession",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 60,
+      "symbol": "SessionState.unknown",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 63,
+      "symbol": "AuthgearPage",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 64,
+      "symbol": "AuthgearPage.settings",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 65,
+      "symbol": "AuthgearPage.identity",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 68,
+      "symbol": "AuthgearDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 69,
+      "symbol": "AuthgearDelegate.authgearRefreshTokenDidExpire(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 70,
+      "symbol": "AuthgearDelegate.authgearSessionStateDidChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 73,
+      "symbol": "Authgear",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 82,
+      "symbol": "Authgear.accessToken",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 89,
+      "symbol": "Authgear.sessionState",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 91,
+      "symbol": "Authgear.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 93,
+      "symbol": "Authgear.init(clientId:endpoint:name:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 102,
+      "symbol": "Authgear.configure(skipRefreshAccessToken:handler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 319,
+      "symbol": "Authgear.authorize(redirectURI:state:prompt:loginHint:uiLocales:handler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 341,
+      "symbol": "Authgear.authenticateAnonymously(handler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 390,
+      "symbol": "Authgear.promoteAnonymousUser(redirectURI:state:uiLocales:handler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 451,
+      "symbol": "Authgear.logout(force:redirectURI:handler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 476,
+      "symbol": "Authgear.openUrl(path:handler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 497,
+      "symbol": "Authgear.open(page:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 501,
+      "symbol": "Authgear.shouldRefreshAccessToken()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 515,
+      "symbol": "Authgear.refreshAccessToken(handler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/Authgear.swift",
+      "line": 550,
+      "symbol": "Authgear.fetchUserInfo(handler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/AuthgearError.swift",
+      "line": 3,
+      "symbol": "AuthgearError",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/AuthgearError.swift",
+      "line": 4,
+      "symbol": "AuthgearError.canceledLogin",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/AuthgearError.swift",
+      "line": 5,
+      "symbol": "AuthgearError.oauthError(error:description:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/AuthgearError.swift",
+      "line": 6,
+      "symbol": "AuthgearError.unexpectedError(_:)",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios/Sources/AuthgearError.swift",
+      "line": 7,
+      "symbol": "AuthgearError.anonymousUserNotFound",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/kiootic/Desktop/authgear/hkpc/authgear-sdk-ios"
+}
